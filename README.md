@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # untitled
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# find_them_app
+An AI-powered Flutter app to help find missing persons using face, name, blood type, and DNA.
+>>>>>>> bea44648039aa2f5fbf543adc2125a22558d241e
