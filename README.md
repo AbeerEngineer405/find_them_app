@@ -1,21 +1,22 @@
-<<<<<<< HEAD
-# untitled
+# Find Them App
 
-A new Flutter project.
+**Find Them** is an AI-powered Flutter application designed to help identify and locate missing persons.  
+It uses advanced technologies such as facial recognition, name matching, blood type, and DNA data to assist in the search process.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧠 Technologies Used
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter & Dart  
+- Python (DeepFace for face recognition)  
+- Flask (REST API)  
+- Ngrok (API tunneling)  
+- Microsoft Azure  
+- Git & GitHub
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# find_them_app
-An AI-powered Flutter app to help find missing persons using face, name, blood type, and DNA.
->>>>>>> bea44648039aa2f5fbf543adc2125a22558d241e
+## 🔒 License
+
+This project is fully owned and created by **Abeer Odhabi**.  
+All rights reserved. Unauthorized use, modification, or redistribution of the code or assets is strictly prohibited.
